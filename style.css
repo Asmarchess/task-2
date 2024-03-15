@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+h1{ 
+    margin-left: 10px;
+    margin-top: 10px;
+    color: red;
+    background-color: chartreuse;
+}
+h2{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: chartreuse;
+    background-color:darkcyan;
+}
+h3{
+    margin-left: 10px;
+    margin-top: 10px;
+    color:blueviolet;
+    background-color:coral;
+}
+h4{
+    margin-left: 10px;
+    margin-top: 10px;
+    color:cornflowerblue;
+    background-color:darkslategray;
+}
+h5{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: deeppink;
+    background-color:darkolivegreen;
+}
+h6{ margin-left: 10px;
+    margin-top: 10px;
+    color:cornflowerblue;
+    background-color:deeppink;
+}
+
+
+
+
+
+
+
+
+
+
+
